@@ -28,4 +28,4 @@ It is helpful for **beginners** who want to practice Python basics and logic bui
 1. Install Python
 2. Clone the repository
 ```bash
-git clone https://github.com/your-username/python-50-solved-questions.git
+git clone https://github.com/your-username/Question_50.git
